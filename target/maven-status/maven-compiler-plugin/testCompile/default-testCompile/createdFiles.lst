@@ -1,0 +1,3 @@
+step_definitions\SignUpPageSteps.class
+config\BaseConfig.class
+step_definitions\HomePageSteps.class
